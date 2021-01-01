@@ -1,0 +1,16 @@
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\bin\Debug\netcoreapp3.1\HappyNewYear2021.exe
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\bin\Debug\netcoreapp3.1\HappyNewYear2021.deps.json
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\bin\Debug\netcoreapp3.1\HappyNewYear2021.runtimeconfig.json
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\bin\Debug\netcoreapp3.1\HappyNewYear2021.runtimeconfig.dev.json
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\bin\Debug\netcoreapp3.1\HappyNewYear2021.dll
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\bin\Debug\netcoreapp3.1\HappyNewYear2021.pdb
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\bin\Debug\netcoreapp3.1\CoreRCON.dll
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\obj\Debug\netcoreapp3.1\HappyNewYear2021.csprojAssemblyReference.cache
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\obj\Debug\netcoreapp3.1\HappyNewYear2021.AssemblyInfoInputs.cache
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\obj\Debug\netcoreapp3.1\HappyNewYear2021.AssemblyInfo.cs
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\obj\Debug\netcoreapp3.1\HappyNewYear2021.csproj.CoreCompileInputs.cache
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\obj\Debug\netcoreapp3.1\HappyNewYear2021.csproj.CopyComplete
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\obj\Debug\netcoreapp3.1\HappyNewYear2021.dll
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\obj\Debug\netcoreapp3.1\HappyNewYear2021.pdb
+F:\GitHub\HNY2021Minecraft\HappyNewYear2021\obj\Debug\netcoreapp3.1\HappyNewYear2021.genruntimeconfig.cache

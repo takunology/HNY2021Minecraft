@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cROUW+yQaLeU17Z0E8qvx+k/7PWuu+f5UgdNaDcKGlqNncEeWCwn50en/k7HImip+Bntc1xL8kabYEhm4HGbQw==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\HNY2021Minecraft\\HappyNewYear2021\\HappyNewYear2021.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takun\\.nuget\\packages\\corercon\\5.0.0\\corercon.5.0.0.nupkg.sha512",
+    "C:\\Users\\takun\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
